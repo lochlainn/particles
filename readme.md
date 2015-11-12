@@ -1,10 +1,10 @@
-[Simulation](index.html)
+[Simulation](https://lochlainn.github.io/particles)
 
 [How This Works](#)
 
 [Source](https://github.com/lochlainn/particles)
 
-# How this works
+# Particle Systems
 ##Lochlainn Macdonald
 ##Computer Graphics, Fall 2015
 ##Homework 7
