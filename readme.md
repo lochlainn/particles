@@ -1,14 +1,6 @@
-<body>
-  <div class="nav">
-  <div class="container">
-    <ul>
-      <li><a href='index.html'>Simulation</a></li>
-      <li><a href=''>How this works</a></li>
-      <li><a href='https://github.com/lochlainn/particles'>Source</a></li>
-    </ul>
-  </div>
-  </div>
-  </body>
+[Simulation](index.html)
+[How This Works](#)
+[Source](https://github.com/lochlainn/particles)
 
 # How this works
 ##Lochlainn Macdonald
