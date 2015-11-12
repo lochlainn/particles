@@ -1,54 +1,10 @@
-<style>
-    body {
-        font-family: Helvetica;
-        font-size: 18px;
-        background-color: #f0f0f0;
-        margin: 0;
-        overflow: hidden;
-    }
-    h1 {
-        text-align: center;
-    }
-    li {
-        display: inline;
-        font-size: 18px;
-        list-style-type: none;
-        float: left;
-        width: 33%;
-        text-align: center;
-    }
-
-    a:link {
-    color: gray;
-    text-decoration: none;
-    }
-
-
-    a:visited {
-    color: gray;
-    text-decoration: none;
-    }
-
-
-    a:hover {
-    color: gray;
-    text-decoration: none;
-    }
-
-
-    a:active {
-    color: gray;
-    text-decoration: none;
-    }
-</style>
-
 <body>
   <div class="nav">
   <div class="container">
     <ul>
-      <li><a href=''>Simulation</a></li>
-      <li><a href='about.md'>How this works</a></li>
-      <li><a href='src add!!!!'>Source</a></li>
+      <li><a href='index.html'>Simulation</a></li>
+      <li><a href=''>How this works</a></li>
+      <li><a href='https://github.com/lochlainn/particles'>Source</a></li>
     </ul>
   </div>
   </div>
