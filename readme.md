@@ -42,14 +42,14 @@ the testbed interface and file structure included in the original build.  I may 
 
 ###Individual Explanations
 
+#### Spikes
+I started by making one spike, and noticed how interesting the effect on a circle was; I decided to make a whole
+array of spikes, just to see how the reaction would change as the particles slowed down.
+
 #### Steps
 A simple "playground" of sorts, with steps on the left, a ramp on the right, and two semisolid circles of
 particles.  There is also a tool to pick up and move around resting in the center; if you can't pick it up, give
 it a couple shots, as there seems to be some unknown bug with the interface for grabbing objects.
-
-#### Spikes
-I started by making one spike, and noticed how interesting the effect on a circle was; I decided to make a whole
-array of spikes, just to see how the reaction would change as the particles slowed down.
 
 #### Fireworks
 This was done by placing three circles, of different sizes and colors, on the same coordinate; as soon as their

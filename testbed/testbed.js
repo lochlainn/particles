@@ -129,7 +129,7 @@ function Testbed(obj) {
 
   window.addEventListener( 'resize', onWindowResize, false );
 
-  testSwitch("steps");
+  testSwitch("spikes");
 
   render();
 }
